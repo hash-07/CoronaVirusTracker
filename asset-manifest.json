@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hash-07/CoronaVirusTrackerstatic/css/main.45035788.chunk.css",
-    "main.js": "/hash-07/CoronaVirusTrackerstatic/js/main.dd9adfac.chunk.js",
-    "main.js.map": "/hash-07/CoronaVirusTrackerstatic/js/main.dd9adfac.chunk.js.map",
-    "runtime-main.js": "/hash-07/CoronaVirusTrackerstatic/js/runtime-main.5031baa1.js",
-    "runtime-main.js.map": "/hash-07/CoronaVirusTrackerstatic/js/runtime-main.5031baa1.js.map",
-    "static/js/2.fd33b2a4.chunk.js": "/hash-07/CoronaVirusTrackerstatic/js/2.fd33b2a4.chunk.js",
-    "static/js/2.fd33b2a4.chunk.js.map": "/hash-07/CoronaVirusTrackerstatic/js/2.fd33b2a4.chunk.js.map",
-    "index.html": "/hash-07/CoronaVirusTrackerindex.html",
-    "precache-manifest.522db9997a5a149250d598db32bfcf3f.js": "/hash-07/CoronaVirusTrackerprecache-manifest.522db9997a5a149250d598db32bfcf3f.js",
-    "service-worker.js": "/hash-07/CoronaVirusTrackerservice-worker.js",
-    "static/css/main.45035788.chunk.css.map": "/hash-07/CoronaVirusTrackerstatic/css/main.45035788.chunk.css.map",
-    "static/js/2.fd33b2a4.chunk.js.LICENSE.txt": "/hash-07/CoronaVirusTrackerstatic/js/2.fd33b2a4.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/hash-07/CoronaVirusTrackerstatic/media/image.d7265326.png"
+    "main.css": "/hash-07/CoronaVirusTracker/static/css/main.45035788.chunk.css",
+    "main.js": "/hash-07/CoronaVirusTracker/static/js/main.dd9adfac.chunk.js",
+    "main.js.map": "/hash-07/CoronaVirusTracker/static/js/main.dd9adfac.chunk.js.map",
+    "runtime-main.js": "/hash-07/CoronaVirusTracker/static/js/runtime-main.2978b7c0.js",
+    "runtime-main.js.map": "/hash-07/CoronaVirusTracker/static/js/runtime-main.2978b7c0.js.map",
+    "static/js/2.cc70e292.chunk.js": "/hash-07/CoronaVirusTracker/static/js/2.cc70e292.chunk.js",
+    "static/js/2.cc70e292.chunk.js.map": "/hash-07/CoronaVirusTracker/static/js/2.cc70e292.chunk.js.map",
+    "index.html": "/hash-07/CoronaVirusTracker/index.html",
+    "precache-manifest.0469df3d2ed65c69b21f13e64c62ccf9.js": "/hash-07/CoronaVirusTracker/precache-manifest.0469df3d2ed65c69b21f13e64c62ccf9.js",
+    "service-worker.js": "/hash-07/CoronaVirusTracker/service-worker.js",
+    "static/css/main.45035788.chunk.css.map": "/hash-07/CoronaVirusTracker/static/css/main.45035788.chunk.css.map",
+    "static/js/2.cc70e292.chunk.js.LICENSE.txt": "/hash-07/CoronaVirusTracker/static/js/2.cc70e292.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/hash-07/CoronaVirusTracker/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5031baa1.js",
-    "static/js/2.fd33b2a4.chunk.js",
+    "static/js/runtime-main.2978b7c0.js",
+    "static/js/2.cc70e292.chunk.js",
     "static/css/main.45035788.chunk.css",
     "static/js/main.dd9adfac.chunk.js"
   ]
