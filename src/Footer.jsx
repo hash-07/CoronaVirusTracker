@@ -3,30 +3,31 @@ import { SocialIcon } from 'react-social-icons';
 import ReactDOM from 'react-dom';
 
 const Footer = (props) => {
+	const mystyle = {
+		padding : "0px 0px 0px 50px", 
+      color: "white",
+      backgroundColor: "DodgerBlue",
+      padding: "10px",
+      fontFamily: "Arial",
+      display : "flex",
+      justifyContent : 'space-between'
+
+    };
+
+
 	return (
-	<div>
+	<React.Fragment>
 
 		<footer className="w-100 bg-light text-center">
-		<p> Copyright © 2020 Code with Hash. All Rights Reserved | Terms & Conditions.
+		<p> Copyright © 2020 Code with Hash. All Rights Reserved | Terms & Conditions.<br></br>
+		 <a style={mystyle} id ="stats" className="btn btn-success" href="https://hash-07.github.io/website/"> Free Courses </a>
+		</p>
+
 		
-		</p>
-
-
-		<p>
-		<a class="ins-ic mr-3" role="button"><i class="fab fa-lg fa-instagram"></i></a>
-		<a class="fb-ic mr-3" role="button"><i class="fab fa-lg fa-facebook-f"></i></a>
-		<a class="git-ic mr-3" role="button"><i class="fab fa-lg fa-github"></i></a>
-<a class="comm-ic mr-3" role="button"><i class="fas fa-lg fa-comments"></i></a>
-
-
-		</p>
-
-
-
 		</footer>
 
 
-	</div>
+	</React.Fragment>
 
 		);
 	ReactDOM.render(<SocialIcon url="http://twitter.com/jaketrent" />, document.body);
